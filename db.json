@@ -1,5 +1,10 @@
 [
   {
+    "image": "assets/images/fruits/frawla.png",
+    "name": "فراولة",
+    "price": "30"
+  },
+  {
     "image": "assets/images/fruits/bati5.png",
     "name": "بطيخ",
     "price": "20"
