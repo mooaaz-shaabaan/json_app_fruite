@@ -1,0 +1,33 @@
+[
+  {
+    "image": "assets/images/fruits/frawla.png",
+    "name": "فراولة",
+    "price": "30"
+  },
+  {
+    "image": "assets/images/fruits/bati5.png",
+    "name": "بطيخ",
+    "price": "20"
+  },
+  {
+    "image": "assets/images/fruits/Avocado.png",
+    "name": "أفوكادو",
+    "price": "200"
+  },
+  {
+    "image": "assets/images/fruits/ananas.png",
+    "name": "أناناس",
+    "price": "20"
+  },
+  {
+    "image": "assets/images/fruits/mooz.png",
+    "name": "موز",
+    "price": "20"
+  },
+  {
+    "image": "assets/images/fruits/mango.png",
+    "name": "مانجو",
+    "price": "60"
+    
+  }
+]
